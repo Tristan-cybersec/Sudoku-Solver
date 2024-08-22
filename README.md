@@ -1,4 +1,4 @@
-# Suduko-solver
+# Sudoko-solver
 
 Objective
 
