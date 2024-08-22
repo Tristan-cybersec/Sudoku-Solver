@@ -15,7 +15,7 @@ Tools Used
 
 
 - ' Python Programming Language '- To implement the solution.
-- ' IDE/Text Editor '- Any code editor like Visual Studio Code, PyCharm, or Jupyter Notebook can be used to write and run the Python code.
+- ' IDE/Text Editor '-PyCharm was used to write and run the Python code.
 - ' Logical Reasoning '- To break down the problem and come up with a viable solution.
 
 
