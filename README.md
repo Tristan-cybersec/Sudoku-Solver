@@ -2,13 +2,13 @@
 
 Objective
 
-The objective of this code is to solve a given Sudoku puzzle using a backtracking algorithm. Sudoku is a logic-based number placement puzzle where the player needs to fill a 9x9 grid so that each row, column, and 3x3 sub-grid contains all digits from 1 to 9 without repetition.
+This code aims to solve a given Sudoku puzzle using a backtracking algorithm. Sudoku is a logic-based number placement puzzle where the player needs to fill a 9x9 grid so that each row, column, and 3x3 sub-grid contains all digits from 1 to 9 without repetition.
 
 Skills Learned
 
-- ' Backtracking Algorithm '- Understanding and implementing a recursive algorithm that tries - ----- possible solutions and backtracks if it encounters a dead end.
-- ' Problem-Solving with Constraints '- How to ensure that certain constraints are met (like Sudoku - rules) while solving a problem.
-- ' 2D List Manipulation '- Working with 2D lists (lists of lists) in Python to represent the Sudoku grid.
+- ' Backtracking Algorithm '- Understanding and implementing a recursive algorithm that tries possible solutions and backtracks if it encounters a dead end.
+- ' Problem-Solving with Constraints '- How to ensure that certain constraints are met while solving a problem.
+- ' 2D List Manipulation '- Working with 2D lists in Python to represent the Sudoku grid.
 - ' Algorithm Optimization '- Learning to write efficient code that reduces unnecessary computations.
 
 Tools Used
